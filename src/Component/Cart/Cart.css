@@ -1,0 +1,6 @@
+.grad {
+    background-image: linear-gradient(to right, rgb(61, 110, 184), rgb(125, 88, 143));
+    position: sticky;
+    right: 10px;
+    top: 10px;
+}
