@@ -3,6 +3,8 @@ Heyyyyy !! Welcome to my world!!
 
 This website refer to build a SOFTWARE FARM by my own selected candidates.
 
+I used React JS and Bootstrap for making this website. also hosted in Netlify.
+
 You can easily visit to the website by : https://tush-build-farm.netlify.app/
 
 So what are you waiting for?
